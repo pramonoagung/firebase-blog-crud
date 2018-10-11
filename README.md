@@ -4,7 +4,7 @@
 
 ## Usage
 
-Goes to [Firebase Console](https://console.firebase.google.com), copy firebase config and paste it at the snippet below
+Go to [Firebase Console](https://console.firebase.google.com), copy firebase config and paste it at the snippet below
 
 ```
 let config = {
@@ -16,3 +16,7 @@ let config = {
   messagingSenderId: "<MESSAGING-SENDER-ID>"
 };
 ```
+
+## Demo
+
+http://firebase-blog.netlify.com
