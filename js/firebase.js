@@ -1,10 +1,10 @@
 let config = {
-  apiKey: "<API-KEY>",
-  authDomain: "<AUTH-DOMAIN>",
-  databaseURL: "<DATABASE-URL>",
-  projectId: "<PROJECT-ID>",
-  storageBucket: "<STORAGE-BUCKET>",
-  messagingSenderId: "<MESSAGING-SENDER-ID>"
+  apiKey: "AIzaSyCRr7gwDRS7Zs7BINfPAMGgkrHteInrHE0",
+  authDomain: "daemon-sandbox.firebaseapp.com",
+  databaseURL: "https://daemon-sandbox.firebaseio.com",
+  projectId: "daemon-sandbox",
+  storageBucket: "daemon-sandbox.appspot.com",
+  messagingSenderId: "124506548827"
 };
 
 firebase.initializeApp(config);
