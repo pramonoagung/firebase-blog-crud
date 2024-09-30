@@ -1,10 +1,10 @@
 # Simple Firebase Blog
 
-> Stable version on **_master_** branch. Use **_dev_** branch for Pull Request or development.
+> The stable version is in the **_master_** branch. Use the **_dev_** branch for pull request or development.
 
 ## Usage
 
-Go to [Firebase Console](https://console.firebase.google.com), copy firebase config and paste it at the snippet below
+Go to [Firebase Console](https://console.firebase.google.com), copy the Firebase config, and paste it into the snippet below.
 
 ```
 let config = {
@@ -19,4 +19,4 @@ let config = {
 
 ## Demo
 
-http://firebase-blog.netlify.com
+http://firebase-blog.netlify.app
